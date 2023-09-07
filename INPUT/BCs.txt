@@ -1,0 +1,15 @@
+&BCs
+ ipbcx0 = 2,
+ ipbcx1 = 2,
+ jpbcy0 = 2,
+ jpbcy1 = 2,
+ iubcx0 = 1,
+ iubcx1 = 2,
+ jubcy0 = 2,
+ jubcy1 = 2, 
+ ivbcx0 = 1,
+ ivbcx1 = 2,
+ jvbcy0 = 2,
+ jvbcy1 = 2,
+&end
+

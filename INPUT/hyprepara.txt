@@ -1,0 +1,8 @@
+ &hyprepara
+ tol = 1.0d-9,
+ maxit = 50,
+ relch = 0,
+ rlxtype = 3,
+ npre = 3,
+ npost = 3,
+ &end
